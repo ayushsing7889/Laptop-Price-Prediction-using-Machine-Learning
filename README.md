@@ -235,4 +235,4 @@ jupyter notebook
 
 ---
 
-# ⭐ If you like this
+# ⭐ If you like this project, give it a star on GitHub!
